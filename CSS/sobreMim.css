@@ -1,0 +1,33 @@
+.imgTexto{
+    display: flex;
+    margin: 0 12% 50px 12%;
+}
+
+.imagem{
+    width: 15%;
+    height: 15%;
+    border-radius: 20px;
+    box-shadow: 5px 5px white;
+    margin-right: 30px;
+}
+
+.textoSobreMim{
+    text-align: justify;
+    color: white;
+    font-weight: 500;
+    font-size: 1.5em;
+}
+
+.tituloSub{
+    color: white;
+    font-weight: 600;
+    font-size: 3em;
+    margin-left: 30px;
+}
+
+.topicos{
+    color: white;
+    font-weight: 400;
+    font-size: 1.2em;
+    margin: 10px 0 10px 35px;
+}
